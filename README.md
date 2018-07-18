@@ -4,6 +4,10 @@
 
 All tests passed. Both client and server working as expected.
 
+#### Try it out!
+
+If you want to try the converter, open [this link on Glitch](https://yagoestevez-metric-imperial-converter.glitch.me/).
+
 ##### User Stories
 1. I will help prevent the client from trying to guess(sniff) the MIME type.
 2. I will prevent cross-site scripting (XSS) attacks.
